@@ -1,3 +1,5 @@
 <template>
-  <UButton>Testing</UButton>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
